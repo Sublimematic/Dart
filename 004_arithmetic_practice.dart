@@ -35,7 +35,7 @@ void main(){
   print(numberMul);
 
   // Swap Values of Two Variables
-  int value1 = 5;
+  int value1 = 55;
   int value2 = 10;
 
   int temp;
@@ -61,7 +61,4 @@ void main(){
   z = temp1;
 
   print("$x, $y, $z");
-
-
-
 }
