@@ -37,7 +37,7 @@ void main(){
   stdout.write("Please Enter the Side1: ");
   int? side1 = int.tryParse(stdin.readLineSync()!);  
 
-  int area_square = side1! * side1!;
+  int area_square = side1! * side1;
   print("The Area of Square is $area_square");
 
   // Area of Rectangle
